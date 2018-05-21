@@ -3,4 +3,5 @@ This is a successively growing cheat sheet I create for myself to have an easy w
 
 # Sources
 * [U.S. Geolocigal Survey](https://earthquake.usgs.gov)
+  * see [Documentation](https://earthquake.usgs.gov/data/comcat/data-eventterms.php) for a reference
 * [Udacity Data Analyst Nanodegree](https://de.udacity.com/course/data-analyst-nanodegree--nd002)
